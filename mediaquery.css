@@ -1,7 +1,8 @@
 @media screen and (max-width: 480px){
     
-    #lezioni{
+    .container{
         background-color: yellow;
+        margin-top: -100px;
     }
 
     #lezioni .row>.left,
@@ -9,11 +10,20 @@
       width: 100%;
       float: left;
     }
+
+    #steps {
+      background-color: white;
+    }
    
     #steps .row>.left,
     #steps .row>.central,
     #steps .row>.right {
-        float: left;
+        float: none;
         width: 100%;
     }
+
+    #why{
+      background-color: lightsalmon;
+    }
+  
   }
