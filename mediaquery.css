@@ -8,7 +8,6 @@
     #lezioni .row>.left,
     #lezioni .row>.right {
       width: 100%;
-      float: left;
     }
 
     #steps {
@@ -18,7 +17,6 @@
     #steps .row>.left,
     #steps .row>.central,
     #steps .row>.right {
-        float: none;
         width: 100%;
     }
 
